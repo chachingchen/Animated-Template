@@ -1,0 +1,3 @@
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript
+
+1. Improve user experience: load text and images on html before download and execute js files can give user an illusion of a much faster website
